@@ -1,0 +1,23 @@
+{
+    "name": "webpm-email",
+    "version": "1.0.0",
+    "description": "webpm周报推送服务",
+    "main": "index.js",
+    "dependencies": {
+        "moment": "^2.17.1",
+        "request": "^2.79.0",
+        "node-schedule": "^1.2.0"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@git.hunantv.com:JusticeLeague/WebPM-Email.git"
+    },
+    "keywords": [
+        "webpm"
+    ],
+    "author": "sukan",
+    "license": "ISC"
+}
